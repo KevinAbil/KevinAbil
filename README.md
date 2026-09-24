@@ -4,7 +4,7 @@
 
 ### 💫 About Me:
 ```python
-class Xhinsuid:
+class KevinAbil:
     def __init__(self):
         self.name = "KEVIN ABIL HIKAM"
         self.location = "East Java, Indonesia"
